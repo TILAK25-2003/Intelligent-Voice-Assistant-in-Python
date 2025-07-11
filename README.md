@@ -59,7 +59,7 @@ pyaudio
  🔧 1. Clone or Download the Project
 
 ```bash
-git clone https://github.com/yourusername/voice-assistant.git
+git clone https://github.com/TILAK25-2003/Intelligent-Voice-Assistant-in-Python.git
 cd voice-assistant
 ```
 
